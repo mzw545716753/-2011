@@ -1,0 +1,80 @@
+1583386901890	geckodriver	INFO	geckodriver 0.18.0
+1583386901907	geckodriver	INFO	Listening on 127.0.0.1:56773
+1583386906899	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583386910443	Marionette	INFO	Listening on port 56786
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583386910796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583386916275	Marionette	INFO	Ceased listening
+1583386917813	geckodriver::marionette	ERROR	Failed to kill browser process
+1583386918870	geckodriver	INFO	geckodriver 0.18.0
+1583386918891	geckodriver	INFO	Listening on 127.0.0.1:56824
+1583386923978	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583386926526	Marionette	INFO	Listening on port 56836
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583386927171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583387009638	geckodriver	INFO	geckodriver 0.18.0
+1583387009661	geckodriver	INFO	Listening on 127.0.0.1:56941
+1583387014864	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583387017480	Marionette	INFO	Listening on port 56952
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583387018049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583387036965	Marionette	INFO	New connections will no longer be accepted
+1583387038384	geckodriver	INFO	geckodriver 0.18.0
+1583387038401	geckodriver	INFO	Listening on 127.0.0.1:57037
+1583387043599	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583387046168	Marionette	INFO	Listening on port 57048
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583387046799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583387066930	Marionette	INFO	New connections will no longer be accepted
+1583388211710	geckodriver	INFO	geckodriver 0.18.0
+1583388211727	geckodriver	INFO	Listening on 127.0.0.1:57975
+1583388217047	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583388219737	Marionette	INFO	Listening on port 57987
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583388220239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583388239370	Marionette	INFO	New connections will no longer be accepted
+1583388241078	geckodriver	INFO	geckodriver 0.18.0
+1583388241098	geckodriver	INFO	Listening on 127.0.0.1:58068
+1583388246313	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583388248892	Marionette	INFO	Listening on port 58081
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583388249497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583388269770	Marionette	INFO	New connections will no longer be accepted
+1583388564231	geckodriver	INFO	geckodriver 0.18.0
+1583388564251	geckodriver	INFO	Listening on 127.0.0.1:58349
+1583388569683	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583388572463	Marionette	INFO	Listening on port 58360
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583388572870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583388591985	Marionette	INFO	New connections will no longer be accepted
+1583388593380	geckodriver	INFO	geckodriver 0.18.0
+1583388593397	geckodriver	INFO	Listening on 127.0.0.1:58447
+1583388598553	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583388601171	Marionette	INFO	Listening on port 58460
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583388601737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583388621987	Marionette	INFO	New connections will no longer be accepted

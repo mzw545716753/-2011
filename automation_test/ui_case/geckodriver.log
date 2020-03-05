@@ -1,0 +1,224 @@
+1583297046747	geckodriver	INFO	geckodriver 0.18.0
+1583297046763	geckodriver	INFO	Listening on 127.0.0.1:50995
+1583297049814	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583297054983	Marionette	INFO	Listening on port 51007
+1583297055287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1583297056446	Marionette	INFO	New connections will no longer be accepted
+1583297196724	geckodriver	INFO	geckodriver 0.18.0
+1583297196741	geckodriver	INFO	Listening on 127.0.0.1:51170
+1583297199772	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583297202590	Marionette	INFO	Listening on port 51180
+1583297202947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1583297212008	Marionette	INFO	New connections will no longer be accepted
+1583297625326	geckodriver	INFO	geckodriver 0.18.0
+1583297625343	geckodriver	INFO	Listening on 127.0.0.1:51565
+1583297628356	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583297631198	Marionette	INFO	Listening on port 51574
+1583297631536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript warning: https://n.sinaimg.cn/index/js/shms2.js?v=20190927, line 289: unreachable code after return statement
+JavaScript warning: https://n.sinaimg.cn/index/js/shms2.js?v=20190927, line 289: unreachable code after return statement
+1583297683008	Marionette	INFO	New connections will no longer be accepted
+1583299064404	geckodriver	INFO	geckodriver 0.18.0
+1583299064421	geckodriver	INFO	Listening on 127.0.0.1:53151
+1583299067512	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583299070370	Marionette	INFO	Listening on port 53162
+1583299070682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1583299077849	Marionette	INFO	New connections will no longer be accepted
+1583299381171	geckodriver	INFO	geckodriver 0.18.0
+1583299381189	geckodriver	INFO	Listening on 127.0.0.1:53548
+1583299384232	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583299387039	Marionette	INFO	Listening on port 53557
+1583299387406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1583299394613	Marionette	INFO	New connections will no longer be accepted
+1583299485506	geckodriver	INFO	geckodriver 0.18.0
+1583299485531	geckodriver	INFO	Listening on 127.0.0.1:53676
+1583299490370	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+console.log: new intermediate certificate added
+console.log: signatures re-verified
+1583299493343	Marionette	INFO	Listening on port 53687
+1583299493655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583299501778	Marionette	INFO	New connections will no longer be accepted
+1583301098491	geckodriver	INFO	geckodriver 0.18.0
+1583301098510	geckodriver	INFO	Listening on 127.0.0.1:55242
+1583301103850	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+console.log: new intermediate certificate added
+console.log: signatures re-verified
+1583301107373	Marionette	INFO	Listening on port 55254
+1583301108205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583301120628	Marionette	INFO	New connections will no longer be accepted
+1583301263915	geckodriver	INFO	geckodriver 0.18.0
+1583301263932	geckodriver	INFO	Listening on 127.0.0.1:55515
+1583301269109	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+console.log: new intermediate certificate added
+console.log: signatures re-verified
+1583301271804	Marionette	INFO	Listening on port 55528
+1583301272443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583301285090	Marionette	INFO	New connections will no longer be accepted
+1583301293828	geckodriver	INFO	geckodriver 0.18.0
+1583301293845	geckodriver	INFO	Listening on 127.0.0.1:55600
+1583301298732	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+console.log: new intermediate certificate added
+console.log: signatures re-verified
+1583301301561	Marionette	INFO	Listening on port 55612
+1583301302179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583301314817	Marionette	INFO	New connections will no longer be accepted
+1583301925828	geckodriver	INFO	geckodriver 0.18.0
+1583301925845	geckodriver	INFO	Listening on 127.0.0.1:56202
+1583301931670	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+console.log: new intermediate certificate added
+console.log: signatures re-verified
+1583301934684	Marionette	INFO	Listening on port 56217
+1583301935230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583301954226	Marionette	INFO	New connections will no longer be accepted
+1583310960756	geckodriver	INFO	geckodriver 0.18.0
+1583310960774	geckodriver	INFO	Listening on 127.0.0.1:64479
+1583310966113	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1583311057477	geckodriver	INFO	geckodriver 0.18.0
+1583311057493	geckodriver	INFO	Listening on 127.0.0.1:64665
+1583311062366	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1583311062937	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1583311063730	Marionette	INFO	Enabled via --marionette
+1583311065948	Marionette	INFO	Listening on port 64677
+1583311066052	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\sh01064\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/browser.js, line 8268: TypeError: gBrowser.tabContainer is undefined
+1583311307239	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1583311307241	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+nManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1583311151715	Marionette	INFO	Enabled via --marionette
+1583311153705	Marionette	INFO	Listening on port 64792
+1583311154087	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\sh01064\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/browser.js, line 8268: TypeError: gBrowser.tabContainer is undefined
+1583311218165	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1583311218172	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1583312442689	geckodriver	INFO	geckodriver 0.18.0
+1583312442706	geckodriver	INFO	Listening on 127.0.0.1:49737
+1583312447948	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1583312449223	Marionette	INFO	Enabled via --marionette
+1583312451086	Marionette	INFO	Listening on port 49748
+1583312451140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583312468093	Marionette	INFO	New connections will no longer be accepted
+1583312678815	geckodriver	INFO	geckodriver 0.18.0
+1583312678831	geckodriver	INFO	Listening on 127.0.0.1:50038
+1583312683945	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1583312684909	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sh01064\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: chrome://firebug/content/debugger/clients/clientCache.js, line 39: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1583312687721	Marionette	INFO	Listening on port 50052
+Error reading incoming packet: (Error: No packet types for header: PRI * HTTP/2.0
+
+SM
+
+Error reading incoming packet: (Error: No packet types for header: authoritylocalhost: - _processIncoming@chrome://marionette/content/transport.js:419:17
+onInputStreamReady@chrome://marionette/content/transport.js:374:14
+)
+Error reading incoming packet: (Error: No packet types for header: 50052@: - _processIncoming@chrome://marionette/content/transport.js:419:17
+onInputStreamReady@chrome://marionette/content/transport.js:374:14
+)
+Error reading incoming packet: (Error: Failed to parse packet header! - _readHeader@chrome://marionette/content/transport.js:472:13
+_processIncoming@chrome://marionette/content/transport.js:410:14
+onInputStreamReady@chrome://marionette/content/transport.js:374:14
+)
+1583312688117	Marionette	WARN	TLS certificate errors will be ignored for this session
+Error reading incoming packet: (Error: No packet types for header: PRI * HTTP/2.0
+
+SM
+
+Error reading incoming packet: (Error: No packet types for header: authoritylocalhost: - _processIncoming@chrome://marionette/content/transport.js:419:17
+onInputStreamReady@chrome://marionette/content/transport.js:374:14
+)
+Error reading incoming packet: (Error: No packet types for header: 50052@: - _processIncoming@chrome://marionette/content/transport.js:419:17
+onInputStreamReady@chrome://marionette/content/transport.js:374:14
+)
+Error reading incoming packet: (Error: Failed to parse packet header! - _readHeader@chrome://marionette/content/transport.js:472:13
+_processIncoming@chrome://marionette/content/transport.js:410:14
+onInputStreamReady@chrome://marionette/content/transport.js:374:14
+)
+1583312705242	Marionette	INFO	New connections will no longer be accepted
+1583312854015	geckodriver	INFO	geckodriver 0.18.0
+1583312854033	geckodriver	INFO	Listening on 127.0.0.1:50281
+1583312859144	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1583312860095	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sh01064\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: chrome://firebug/content/debugger/clients/clientCache.js, line 39: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1583312862872	Marionette	INFO	Listening on port 50292
+1583312863335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583312880609	Marionette	INFO	New connections will no longer be accepted
+1583312898263	geckodriver	INFO	geckodriver 0.18.0
+1583312898285	geckodriver	INFO	Listening on 127.0.0.1:50356
+1583312903455	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1583312904471	Marionette	INFO	Enabled via --marionette
+1583312906580	Marionette	INFO	Listening on port 50367
+1583312906662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583312923880	Marionette	INFO	New connections will no longer be accepted
+1583313230153	geckodriver	INFO	geckodriver 0.18.0
+1583313230169	geckodriver	INFO	Listening on 127.0.0.1:50718
+1583313235288	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1583313236253	Marionette	INFO	Enabled via --marionette
+1583313238116	Marionette	INFO	Listening on port 50729
+1583313238474	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\sh01064\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/browser.js, line 8268: TypeError: gBrowser.tabContainer is undefined
+ox.exe with args ["-marionette"]
+1583313390625	Marionette	INFO	Enabled via --marionette
+1583313392416	Marionette	INFO	Listening on port 50978
+1583313392902	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\sh01064\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/browser.js, line 8268: TypeError: gBrowser.tabContainer is undefined
+ox.exe with args ["-marionette"]
+1583313539013	Marionette	INFO	Enabled via --marionette
+1583313540913	Marionette	INFO	Listening on port 51148
+1583313540926	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\sh01064\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/browser.js, line 8268: TypeError: gBrowser.tabContainer is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1583313596447	geckodriver	INFO	geckodriver 0.18.0
+1583313596470	geckodriver	INFO	Listening on 127.0.0.1:51245
+1583313601414	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1583313602323	Marionette	INFO	Enabled via --marionette
+1583313604311	Marionette	INFO	Listening on port 51258
+1583313604601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583313625011	Marionette	INFO	New connections will no longer be accepted
+1583313634328	geckodriver	INFO	geckodriver 0.18.0
+1583313634345	geckodriver	INFO	Listening on 127.0.0.1:51349
+1583313639511	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1583313640406	Marionette	INFO	Enabled via --marionette
+1583313642194	Marionette	INFO	Listening on port 51362
+1583313642701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583313662865	Marionette	INFO	New connections will no longer be accepted
+1583316431944	geckodriver	INFO	geckodriver 0.18.0
+1583316431962	geckodriver	INFO	Listening on 127.0.0.1:54521
+1583316437532	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583316440247	Marionette	INFO	Listening on port 54535
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583316440719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583316461186	Marionette	INFO	New connections will no longer be accepted
+1583316569667	geckodriver	INFO	geckodriver 0.18.0
+1583316569684	geckodriver	INFO	Listening on 127.0.0.1:54707
+1583316574792	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1583316577757	Marionette	INFO	Listening on port 54722
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1583316578141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583316598255	Marionette	INFO	New connections will no longer be accepted
